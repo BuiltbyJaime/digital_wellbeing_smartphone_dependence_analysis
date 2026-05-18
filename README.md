@@ -12,6 +12,6 @@ The three main questions that will be observerd are:
 
     1. Does higher screen time relate to higher addiction levels?
 
-    2. How does sleep duration differ between addicted and non-addicted users?
+    2. Is screen addiction associated with negative academic impact?
 
     3. Is stress level associated with screen addiction?
